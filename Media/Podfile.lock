@@ -1,0 +1,24 @@
+PODS:
+  - GPUImage (0.1.7)
+  - Masonry (1.0.2)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - GPUImage
+  - Masonry (= 1.0.2)
+  - SVProgressHUD (= 2.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GPUImage
+    - Masonry
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: d085145c4f6bd35c5b72ecd7f4e31e6605fbe86d
+
+COCOAPODS: 1.5.3
